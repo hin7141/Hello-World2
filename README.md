@@ -1,2 +1,5 @@
 # Hello-World2
-Just another repository
+
+Hi Humans!
+
+This is Henry who is interested in machine learning and studying at HKU. 
